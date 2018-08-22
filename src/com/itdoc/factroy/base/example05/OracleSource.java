@@ -12,10 +12,16 @@
  */
 package com.itdoc.factroy.base.example05;
 
+import javax.sql.DataSource;
+
 /**
  * @desc
  * @author Wang Chinda
  * @create 2018-08-22 23:53
  */
 public class OracleSource implements Source {
+    @Override
+    public void connect(DataSource dataSource) {
+
+    }
 }
