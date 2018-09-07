@@ -1,11 +1,4 @@
-/*
- * 文件名：Person.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
- * 描述：
- * 修改人：Wang Chinda
- * 修改时间：2018/9/6
- * 修改内容：新增
- */
+
 package com.itdoc.factroy.base.example06.vo;
 
 /**

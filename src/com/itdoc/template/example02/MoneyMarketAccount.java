@@ -1,6 +1,6 @@
 /*
  * 文件名：MoneyMarketAccount.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
+ *
  * 描述：货币市场账户
  * 修改人：Wang Chinda
  * 修改时间：2018/8/9

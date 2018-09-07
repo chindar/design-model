@@ -1,6 +1,6 @@
 /*
  * 文件名：CertificateDeposAccount.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
+ *
  * 描述：定期存款账户
  * 修改人：Wang Chinda
  * 修改时间：2018/8/9

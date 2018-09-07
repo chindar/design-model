@@ -1,6 +1,6 @@
 /*
  * 文件名：Price.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
+ *
  * 描述：价格类
  * 修改人：Wang Chinda
  * 修改时间：2018/8/21

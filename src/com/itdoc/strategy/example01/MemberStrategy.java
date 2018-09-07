@@ -1,6 +1,6 @@
 /*
  * 文件名：MemberStrategy.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
+ *
  * 描述：抽象折扣类
  * 修改人：Wang Chinda
  * 修改时间：2018/8/21

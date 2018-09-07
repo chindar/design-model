@@ -1,6 +1,6 @@
 /*
  * 文件名：AdvancedMemberStrategy.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
+ *
  * 描述：高级会员折扣类
  * 修改人：Wang Chinda
  * 修改时间：2018/8/21

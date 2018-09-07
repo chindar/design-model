@@ -1,6 +1,6 @@
 /*
  * 文件名：DataSource.java
- * 版权：Copyright Neusoft Corporation Rights Reserved.
+ *
  * 描述：数据源
  * 修改人：Wang Chinda
  * 修改时间：2018/9/6
